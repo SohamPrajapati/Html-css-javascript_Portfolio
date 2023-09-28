@@ -500,7 +500,7 @@ span {
     html {
         font-size: 50%;
     }
-    
+
     .contact form .input-box input {
         width: 100%;
     }
@@ -523,4 +523,11 @@ span {
         text-align: center;
         margin-top: 2rem;
     }
+}
+
+/* ----------------------contact data sent-------------------- */
+#msg {
+    color: #61b752;
+    margin-top: -40px;
+    display: block;
 }
