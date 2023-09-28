@@ -400,10 +400,6 @@ span {
     html {
         font-size: 55%;
     }
-
-    #msg {
-        font-size: 55%;
-    }
 }
 
 @media (max-width: 991px) {
@@ -518,7 +514,7 @@ span {
     }
 
     #msg {
-        font-size: 50%;
+        font-size: 2rem 3%;
     }
 }
 
@@ -541,6 +537,7 @@ span {
     }
 
     #msg {
-        font-size: 50%;
+        margin-top: -20px;
+        font-size: 2rem 3%;
     }
 }
