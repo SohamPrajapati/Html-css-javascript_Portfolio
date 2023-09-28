@@ -539,4 +539,8 @@ span {
         text-align: center;
         margin-top: 2rem;
     }
+
+    #msg {
+        font-size: 50%;
+    }
 }
