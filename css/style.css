@@ -388,11 +388,20 @@ span {
 /* ----------------------contact data sent-------------------- */
 #msg {
     color: var(--main-color);
-    margin-top: -40px;
+    margin-top: -3rem;
     display: block;
     font-size: 1.6rem;
 }
 
+#visitors {
+    color: var(--main-color);
+    display: block;
+    font-size: 1.6rem;
+    margin-top: 0.5rem;
+}
+#visitors img {
+    margin-bottom: -0.5rem;
+}
 
 
 /* BREAKPOINTS */
@@ -428,6 +437,10 @@ span {
     }
 
     #msg {
+        font-size: 2rem 3%;
+    }
+
+    #visitors {
         font-size: 2rem 3%;
     }
 }
@@ -516,6 +529,10 @@ span {
     #msg {
         font-size: 2rem 3%;
     }
+
+    #visitors {
+        font-size: 2rem 3%;
+    }
 }
 
 @media (max-width: 365px) {
@@ -537,6 +554,11 @@ span {
     }
 
     #msg {
+        margin-top: -20px;
+        font-size: 2rem 3%;
+    }
+
+    #visitors {
         margin-top: -20px;
         font-size: 2rem 3%;
     }
