@@ -24,15 +24,15 @@ This portfolio website designed and developed by Soham Prajapati. It is built us
 
 ## Pages
 1. **Home**: Provides a brief introduction and overview of the portfolio.
-   ![Home Page](screenshots/home.png)
+   ![Home Page](screenshots/Home.png)
 2. **About**: Presents detailed information about the creator, including background, education, and interests.
-   ![About Page](screenshots/about.png)
+   ![About Page](screenshots/About.png)
 3. **Skills**: Highlights the technical skills and expertise of the creator.
-   ![Skills Page](screenshots/skills.png)
+   ![Skills Page](screenshots/Skills.png)
 4. **Projects**: Showcases a selection of projects with descriptions, images, and links to the live demos or repositories.
-   ![Projects Page](screenshots/projects.png)
+   ![Projects Page](screenshots/Projects.png)
 5. **Contact**: Includes a contact form and other contact details for communication purposes.
-   ![Contact Page](screenshots/contact.png)
+   ![Contact Page](screenshots/ContactMe.png)
 
 
 ## Technologies Used
